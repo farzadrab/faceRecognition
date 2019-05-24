@@ -1,0 +1,21 @@
+npx create-react-app react_1
+
+add .env file (SKIP_PREFLIGHT_CHECK=true)
+
+npm start
+
+npm install tachyons
+
+npm install --save react-tilt
+
+add event for input type text:
+    App.js
+        add components
+        change to class
+        add constructor
+        create variable
+        add to the tag of component
+    Form.js
+        add as parameter
+        add onChange in input 
+
